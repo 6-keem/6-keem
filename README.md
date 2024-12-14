@@ -38,14 +38,6 @@
     <h2 style="margin: 0; padding: 0; text-decoration: none">
         💭 About Me
     </h2>
-    <hr
-        style="
-            border: 0;
-            height: 1px;
-            background-color: #a0a0a0;
-            border-radius: 200px;
-        "
-    />
     <ul style="list-style-position: inside; padding-left: 12px; margin: 0">
         <li>
             Hansung Univ. - Computer Engineering <code>(2020.03 ~ )</code>
