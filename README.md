@@ -6,11 +6,16 @@
         alt="hits badge"
         style="vertical-align: middle"
     />
+    <a
+        href="https://6-keem.github.io/"
+        style="display: inline-flex; align-items: center"
+        >
     <img
         alt="Static Badge"
         src="https://img.shields.io/badge/github.io-FFFFFF?style=flat-square&logo=github&logoColor=black"
         style="vertical-align: middle"
     />
+    </a>
     <a
         href="mailto:6ukeem@gmail.com"
         style="display: inline-flex; align-items: center"
