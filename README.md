@@ -184,5 +184,11 @@
 </div>
 <br /><br />
 
-<div style="margin-top: 32px"/>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=keem)](https://solved.ac/keem)
+<div style="margin-top: 32px" >
+<a href="https://solved.ac/keem">
+    <img
+        src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keem"
+        alt="Solved.ac프로필"
+    />
+</a>
+</div>
