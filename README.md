@@ -46,8 +46,8 @@
     </h2>
     <ul style="list-style-position: inside; padding-left: 12px; margin: 0">
         <li>🖥️ Aspiring Full-stack developer</li>
-        <li>🔥 Currently studying Django Backend Framework</li>
         <li>🏝️ Enjoying Traveling, Photography, and Exercising</li>
+        <li>🔥 Currently studying Django Backend Framework</li>
     </ul>
 </div>
 <br />
