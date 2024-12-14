@@ -12,7 +12,7 @@
 </div> 
 
 <div style="display: flex; align-items: center;">
-  <h2 style="margin: 0; margin-right: 4px">SANGJUN KIM</h2> 
+  <h2 style="margin: 0; margin-right: 4px;">SANGJUN KIM</h2> 
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6-keem%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="hits badge" style="vertical-align: middle"/>
   <img alt="Static Badge" src="https://img.shields.io/badge/github.io-FFFFFF?style=flat-square&logo=github&logoColor=black" style="vertical-align: middle"/>
   <a href="mailto:6ukeem@gmail.com" style="display: inline-flex; align-items: center;">
@@ -22,8 +22,9 @@
 
 ---
 
-<div><h3>💭 About Me</h3>
-	<ul>
+<div>
+<h3>💭 About Me</h3>
+<ul>
     <li>Hansung Univ. - Computer Engineering <code>(2020.03 ~ )</code></li>
     <li>Aspiring Full-stack developer</li>
     <li>Enjoying Traveling, Photography, and Exercising</li>
