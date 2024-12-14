@@ -1,4 +1,11 @@
-<h1 style="margin: 0; margin-right: 4px">
+<h1
+    style="
+        margin: 0;
+        margin-right: 4px;
+        display: inline-flex;
+        text-decoration: none;
+    "
+>
     SANGJUN KIM
     <div style="display: inline-flex; align-items: center">
         <img
@@ -37,7 +44,9 @@
 </div>
 
 <div>
-    <h2 style="margin: 0; padding: 0">💭 About Me</h2>
+    <h2 style="margin: 0; padding: 0; text-decoration: none">
+        💭 About Me
+    </h2>
     <hr
         style="
             border: 0;
@@ -58,7 +67,7 @@
 <div style="margin-top: 32px">
     <h2 style="margin: 0; padding: 0">🧰 Tech Stack</h2>
 
-<div style="margin-bottom: 16px;">    
+<div style="margin-bottom: 16px">
     <h3 style="margin: 0 0 8px 0">Frontend</h3>
     <p style="margin: 0">
         <img
