@@ -169,11 +169,7 @@
         <li>
             🏅 2024 Hansung Univ. Pre-Capstone <strong>Best Award</strong>
             <sub>
-                <sup
-                    ><code
-                        >AI를 활용한 챗봇 기반 문자 전송, 이미지 생성·편집
-                        서비스 : Pa·Letter 🎨</code
-                    >
+                <sup><code>AI를 활용한 챗봇 기반 문자 전송, 이미지 생성·편집 서비스 : Pa·Letter 🎨</code>
                     <span style="display: inline-flex; align-items: center">
                         (with &nbsp;<a
                             href="https://www.daouidc.com/"
