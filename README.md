@@ -1,34 +1,25 @@
-<h1
-    style="
-        margin: 0;
-        margin-right: 4px;
-        display: inline-flex;
-        text-decoration: none;
-    "
->
+<h1 style="margin: 0; margin-right: 4px; text-decoration: none">
     SANGJUN KIM
-    <div style="display: inline-flex; align-items: center">
-        <img
-            src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6-keem%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"
-            alt="hits badge"
-            style="vertical-align: middle"
-        />&nbsp;
+    <img
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6-keem%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"
+        alt="hits badge"
+        style="vertical-align: middle"
+    />
+    <img
+        alt="Static Badge"
+        src="https://img.shields.io/badge/github.io-FFFFFF?style=flat-square&logo=github&logoColor=black"
+        style="vertical-align: middle"
+    />
+    <a
+        href="mailto:6ukeem@gmail.com"
+        style="display: inline-flex; align-items: center"
+    >
         <img
             alt="Static Badge"
-            src="https://img.shields.io/badge/github.io-FFFFFF?style=flat-square&logo=github&logoColor=black"
+            src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"
             style="vertical-align: middle"
-        />&nbsp;
-        <a
-            href="mailto:6ukeem@gmail.com"
-            style="display: inline-flex; align-items: center"
-        >
-            <img
-                alt="Static Badge"
-                src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"
-                style="vertical-align: middle"
-            />
-        </a>
-    </div>
+        />
+    </a>
 </h1>
 <div align="center">
     <img
