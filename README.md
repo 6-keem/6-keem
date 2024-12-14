@@ -45,11 +45,10 @@
         💭 About Me
     </h2>
     <ul style="list-style-position: inside; padding-left: 12px; margin: 0">
-        <li>
-            Hansung Univ. - Computer Engineering <code>(2020.03 ~ )</code>
-        </li>
-        <li>Aspiring Full-stack developer</li>
-        <li>Enjoying Traveling, Photography, and Exercising</li>
+        <li>🏫 Hansung Univ. - Computer Engineering <code>(2020.03 ~ )</code></li>
+        <li>🖥️ Aspiring Full-stack developer</li>
+        <li>🔎 Currently studying Django Backend Framework</li>
+        <li>🏝️ Enjoying Traveling, Photography, and Exercising</li>
     </ul>
 </div>
 <br />
