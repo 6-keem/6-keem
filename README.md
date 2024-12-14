@@ -47,7 +47,7 @@
         <li>Enjoying Traveling, Photography, and Exercising</li>
     </ul>
 </div>
-<br /><br />
+<br />
 
 <div style="margin-top: 24px">
     <h2 style="margin: 0; padding: 0">🧰 Tech Stack</h2>
@@ -161,7 +161,7 @@
         </p>
     </div>
 </div>
-<br /><br />
+<br />
 
 <div style="margin-top: 24px">
     <h2 style="margin: 0; padding: 0">🏆 Awards</h2>
