@@ -170,7 +170,7 @@
     <h2 style="margin: 0; padding: 0">🏆 Awards</h2>
     <ul style="list-style-position: inside; padding-left: 12px; margin: 0">
         <li>
-            🏅 2024 Hansung Univ. Pre-Capstone <strong>Best Award</strong>
+            🏅 2024 Hansung Univ. Pre-Capstone <strong>Grand Prize</strong>
             <sub>
                 <sup><code>AI를 활용한 챗봇 기반 문자 전송, 이미지 생성·편집 서비스 : Pa·Letter 🎨</code>
                     <span style="display: inline-flex; align-items: center">
