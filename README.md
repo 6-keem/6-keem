@@ -188,5 +188,5 @@
 <br /><br />
 
 <div style="margin-top: 32px">
-<a href="https://solved.ac/keem"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keem" alt="Solved.ac프로필" /></a><a href="6-keem-dev.vercel.app"><img src="https://6-keem-dev.vercel.app/api/badge" /></a>
+<a href="https://solved.ac/keem"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keem" alt="Solved.ac프로필" /></a><a href="https://6-keem-dev.vercel.app/blog"><img src="https://6-keem-dev.vercel.app/api/badge" /></a>
 </div>
