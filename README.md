@@ -29,15 +29,15 @@
 </h1>
 <div align="center">
     <img
-        src="https://render.gitanimals.org/lines/6-keem?pet-id=654237549733731337"
-        width="300"
-        height="160"
-    />
-    <img
         src="https://render.gitanimals.org/lines/6-keem?pet-id=656259028272931341"
-        width="300"
-        height="160"
+        width="360"
+        height="130"
     />
+    <a href="https://6-keem-dev.vercel.app/blog" target="_blank" rel="noopener noreferrer">
+        <img
+            src="https://6-keem-dev.vercel.app/api/badge?width=360&height=130"
+        />
+    </a>
 </div>
 
 <div>
@@ -188,5 +188,5 @@
 <br /><br />
 
 <div style="margin-top: 32px">
-<a href="https://solved.ac/keem"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keem" alt="Solved.ac프로필" /></a><a href="https://6-keem-dev.vercel.app/blog"><img src="https://6-keem-dev.vercel.app/api/badge" /></a>
+<a href="https://solved.ac/keem"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keem" alt="Solved.ac프로필" /></a>
 </div>
