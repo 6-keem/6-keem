@@ -30,12 +30,12 @@
 <div align="center">
     <img
         src="https://render.gitanimals.org/lines/6-keem?pet-id=656259028272931341"
-        width="360"
+        width="450"
         height="130"
     />
     <a href="https://6-keem-dev.vercel.app/blog" target="_blank" rel="noopener noreferrer">
         <img
-            src="https://6-keem-dev.vercel.app/api/badge?width=360&height=130"
+            src="https://6-keem-dev.vercel.app/api/badge?width=450&height=130"
         />
     </a>
 </div>
