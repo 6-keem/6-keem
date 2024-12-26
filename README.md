@@ -22,15 +22,30 @@
 </h1>
 <div align="center">
     <img
+    src="https://render.gitanimals.org/lines/6-keem?pet-id=654237549733731337"
+    width="360"
+    height="130"
+    />
+    <img
         src="https://render.gitanimals.org/lines/6-keem?pet-id=656259028272931341"
         width="360"
         height="130"
     />
+</div>
+
+<div align="center">
     <a href="https://6-keem-dev.vercel.app/blog" target="_blank" rel="noopener noreferrer">
         <img
             width="360"
             height="130"
             src="https://6-keem-dev.vercel.app/api/badge?width=360&height=130"
+        />
+    </a>
+    <a href="https://6-keem-dev.vercel.app/blog" target="_blank" rel="noopener noreferrer">
+        <img
+            width="360"
+            height="130"
+            src="https://6-keem-dev.vercel.app/api/badge?width=360&height=130&date=2024-12-22"
         />
     </a>
 </div>
