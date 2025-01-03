@@ -134,6 +134,7 @@
                 alt="Static Badge"
                 src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=confluence&logoColor=white"
             />
+            <img alt="Static Badge" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white"/>
         </p>
     </div>
     <div style="margin-bottom: 16px">
