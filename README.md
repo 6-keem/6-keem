@@ -49,18 +49,6 @@
     </a>
 </div>
 
-<div>
-    <h2 style="margin: 0; padding: 0; text-decoration: none">
-        💭 About Me
-    </h2>
-    <ul style="list-style-position: inside; padding-left: 12px; margin: 0">
-        <li>🖥️ Aspiring Full-stack developer</li>
-        <li>🏝️ Enjoying Traveling, Photography, and Exercising</li>
-        <li>🔥 Currently studying Django Backend Framework</li>
-    </ul>
-</div>
-<br />
-
 <div style="margin-top: 24px">
     <h2 style="margin: 0; padding: 0">🧰 Tech Stack</h2>
     <div style="margin-bottom: 16px">
@@ -196,7 +184,3 @@
     </ul>
 </div>
 <br /><br />
-
-<div style="margin-top: 32px">
-<a href="https://solved.ac/keem"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=keem" alt="Solved.ac프로필" /></a>
-</div>
