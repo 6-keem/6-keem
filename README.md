@@ -1,11 +1,11 @@
 <h1 style="margin: 0; margin-right: 4px; text-decoration: none">
     <div align="center">SANGJUN KIM</div>
     <div align="center">
-        <img
+<!--         <img
             src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F6-keem%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"
             alt="hits badge"
             style="vertical-align: middle"
-        />
+        /> -->
         <a href="https://6-keem-dev.vercel.app/blog" target="_blank">
             <img alt="Static Badge" src="https://img.shields.io/badge/6--keem.dev-FFFFFF?style=flat-square&logo=analogue&logoColor=black">
         </a>
