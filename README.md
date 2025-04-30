@@ -6,7 +6,7 @@
             alt="hits badge"
             style="vertical-align: middle"
         /> -->
-        <a href="https://6-keem-dev.vercel.app/blog" target="_blank">
+        <a href="https://6-keem.com/blog" target="_blank">
             <img alt="Static Badge" src="https://img.shields.io/badge/6--keem.dev-FFFFFF?style=flat-square&logo=analogue&logoColor=black">
         </a>
         <a
@@ -21,7 +21,7 @@
         </a>
     </div/>
 </h1>
-<div align="center"><a href="https://6-keem-dev.vercel.app/blog" target="_blank" rel="noopener noreferrer"><img
+<div align="center"><a href="https://6-keem.com/blog/Frontend/2024-12-22" target="_blank" rel="noopener noreferrer"><img
             width="360"
             height="130"
             src="https://6-keem-dev.vercel.app/api/badge?width=360&height=130"
