@@ -21,11 +21,11 @@
         </a>
     </div/>
 </h1>
-<div align="center"><a href="https://6-keem.com/blog/Frontend/2024-12-22" target="_blank" rel="noopener noreferrer"><img
+<div align="center"><a href="https://6-keem.com/blog" target="_blank" rel="noopener noreferrer"><img
             width="360"
             height="130"
             src="https://6-keem-dev.vercel.app/api/badge?width=360&height=130"
-        /></a> <a href="https://6-keem-dev.vercel.app/blog" target="_blank" rel="noopener noreferrer"><img
+        /></a> <a href="https://6-keem.com/blog/Frontend/2024-12-22" target="_blank" rel="noopener noreferrer"><img
             width="360"
             height="130"
             src="https://6-keem-dev.vercel.app/api/badge?width=360&height=130&date=2024-12-22"
