@@ -24,7 +24,7 @@
 <div align="center"><a href="https://6-keem.com/blog" target="_blank" rel="noopener noreferrer"><img
             width="360"
             height="130"
-            src="https://6-keem-dev.vercel.app/api/badge?width=360&height=130"
+            src="https://6-keem-dev.vercel.app/api/badge?width=360&height=130&date=2025-04-29"
         /></a> <a href="https://6-keem.com/blog/Frontend/2024-12-22" target="_blank" rel="noopener noreferrer"><img
             width="360"
             height="130"
@@ -58,9 +58,9 @@
             alt="Static Badge"
             src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=springsecurity&logoColor=white"
         />
-        <img
-            alt="Static Badge"
-            src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"
+        <img 
+            alt="Static Badge" 
+            src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=ffffff"
         />
         <img
             alt="Static Badge"
@@ -100,18 +100,3 @@
         />
     </div>
 <br /></br/>
-
-<div align="center">
-    🏅 2024 Hansung Univ. Pre-Capstone <strong>Grand Prize</strong>
-    <sub>
-        <sup><code>AI를 활용한 챗봇 기반 문자 전송, 이미지 생성·편집 서비스 : Pa·Letter 🎨</code>
-            <span style="display: inline-flex; align-items: center">
-                (with &nbsp;<a
-                    href="https://www.daouidc.com/"
-                    target="_blank"
-                    >Daou IDC</a
-                >)</span
-            ></sup
-        >
-    </sub>
-</div>
