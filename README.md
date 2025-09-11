@@ -28,7 +28,7 @@
         /></a> <a href="https://6-keem.com/blog/Frontend/2024-12-22" target="_blank" rel="noopener noreferrer"><img
             width="360"
             height="130"
-            src="https://6-keem-dev.vercel.app/api/badge?width=360&height=130&date=2024-12-22"
+            src="https://6-keem-dev.vercel.app/api/badge?width=360&height=130&date=2024-12-22&category=Frontend"
         /></a>
 </div>
 <br/></br>
